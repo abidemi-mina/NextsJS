@@ -11,6 +11,7 @@ const Navabar = () =>{
                     <Link href='/'> Home</Link>
                     <Link href='/about'> About</Link>
                     <Link href='/subs/tests'> Test</Link>
+                    <Link href='/subs/datas'> Data</Link>
                 </div>
                 
             </div>
